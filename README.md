@@ -1,5 +1,15 @@
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/2k24csaimlid2412456-arch/main/profile.png"
+       width="180"
+       alt="Sudhanshu Singh's profile photo"
+       style="border-radius: 50%;" />
+
+  <h2>Hey, I'm Sudhanshu Singh 👋</h2>
+  <p>AI/ML Developer | Java & DSA | Agentic AI</p>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:6D28D9&height=200&section=header&text=Sudhanshu%20Singh&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descAlignY=60&descSize=16" width="100%" />
 
