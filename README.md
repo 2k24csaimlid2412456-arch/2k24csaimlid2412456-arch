@@ -114,9 +114,13 @@ A question-answering system that retrieves relevant information from personal no
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2k24csaimlid2412456-arch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2k24csaimlid2412456-arch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2k24csaimlid2412456-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=LeetCode-Solutions" alt="Most used programming languages" />
+
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2k24csaimlid2412456-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=LeetCode-Solutions" alt="Most used programming languages" />
+
 
 </div>
 
