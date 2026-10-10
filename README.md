@@ -16,12 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sudhanshu Singh**, an AI/ML developer interested in building practical intelligent applications using machine learning, LLMs, and multi-agent systems.
 
-- 🤖 Exploring Agentic AI, RAG pipelines, and LLM applications
-- 🌿 Building AI solutions for agriculture and crop disease detection
-- 🧠 Working with computer vision, model fine-tuning, and semantic retrieval
-- ⚙️ Interested in backend development and deploying AI applications
+- ☕ Practicing Java and strengthening my DSA foundations
+- 🧩 Developing structured problem-solving and algorithmic thinking
+- 🗄️ Learning database concepts and working with MySQL
+- 🤖 Building AI applications using Python, LLMs, and machine learning
 
 ## ⚡ Tech Stack
 
@@ -122,11 +121,22 @@ A question-answering system that retrieves relevant information from personal no
 
 ---
 
+
+
+## 🧩 Problem-Solving Approach
+
+- Break complex problems into smaller, manageable steps.
+- Focus on Data Structures & Algorithms using Java.
+- Analyze time and space complexity to improve solutions.
+- Practice coding problems and explore alternative approaches.
+- Apply logical thinking and structured debugging to solve challenges.
+
 ## 📚 Core Interests
 
-`Machine Learning` · `Deep Learning` · `Computer Vision`  
-`Natural Language Processing` · `RAG` · `Multi-Agent Systems`  
-`Data Structures & Algorithms` · `Database Management Systems`
+`Java` · `Data Structures & Algorithms` · `Problem Solving`
+`Machine Learning` · `Deep Learning` · `Computer Vision`
+`Agentic AI` · `RAG Systems` · `MySQL` · `Database Management Systems`
+
 
 ## 🤝 Connect With Me
 
