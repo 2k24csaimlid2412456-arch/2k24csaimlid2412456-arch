@@ -1,13 +1,5 @@
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/2k24csaimlid2412456-arch/main/profile.png"
-       width="180"
-       alt="Sudhanshu Singh's profile photo"
-       style="border-radius: 50%;" />
 
-  <h2>Hey, I'm Sudhanshu Singh 👋</h2>
-  <p>AI/ML Developer | Java & DSA | Agentic AI</p>
-</div>
 
 <div align="center">
 
