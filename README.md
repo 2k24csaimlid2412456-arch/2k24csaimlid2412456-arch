@@ -211,13 +211,15 @@ A retrieval-augmented question-answering system that retrieves relevant content 
 
 ---
 
-## `contribution_graph` — Keep Building
+
+## 📈 GitHub Activity — Keep Building
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2k24csaimlid2412456-arch&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2k24csaimlid2412456-arch&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
+
 
 ---
 
