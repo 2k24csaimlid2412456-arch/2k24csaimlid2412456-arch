@@ -25,35 +25,33 @@
 
 ---
 
-## `whoami` — About Me
 
-```python
-class SudhanshuSingh:
-    def __init__(self):
-        self.role = "AI/ML Developer"
-        self.languages = ["Python", "Java", "SQL"]
-        self.focus = [
-            "Machine Learning",
-            "Agentic AI",
-            "Computer Vision",
-            "RAG Systems"
-        ]
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "MySQL",
-            "Advanced AI Engineering"
-        ]
+## 👨‍💻 About Me
 
-    def philosophy(self):
-        return "Learn deeply. Build practically. Improve continuously."
-```
+<div align="center">
 
-- Building AI applications with **LLMs, RAG, and multi-agent workflows**.
-- Exploring computer vision for practical problems, including agricultural disease detection.
-- Strengthening **Java, DSA, problem-solving, and database fundamentals**.
-- Interested in taking AI projects from experimentation to deployment.
+### Hey there! I'm Sudhanshu Singh 👋
 
----
+**AI/ML Developer | Agentic AI | Computer Vision**
+
+*Turning ideas into intelligent, practical applications.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Agentic_AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploring-Machine_Learning-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Practicing-Java_&_DSA-ED8B00?style=for-the-badge" />
+
+</div>
+
+- 🤖 Building AI applications with **LLMs, RAG, and multi-agent workflows**.
+- 🌾 Developing agricultural AI solutions, including crop disease detection.
+- 🧠 Strengthening **Java, Data Structures & Algorithms, and problem-solving**.
+- 🗄️ Learning and practicing **SQL and MySQL**.
+- 🚀 Exploring AI deployment, model integration, and practical AI engineering.
+
+> **My philosophy:** Learn deeply. Build practically. Improve continuously.
+
 
 ## `tech_stack` — Tools I Work With
 
